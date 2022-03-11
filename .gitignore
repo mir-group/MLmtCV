@@ -1,0 +1,6 @@
+*.png
+*.npz
+*.pyc
+log*
+saved_graph.info
+models
